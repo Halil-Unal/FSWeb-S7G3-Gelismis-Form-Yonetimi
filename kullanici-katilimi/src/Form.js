@@ -91,6 +91,7 @@ export default function App() {
 
   return (
     <div className="App">
+     
       <form onSubmit={handleSubmit}>
         <div className="form-line">
           <label htmlFor="isimAlani">İsim</label>
